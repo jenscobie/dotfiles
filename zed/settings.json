@@ -1,0 +1,36 @@
+{
+  "theme": "One Dark",
+  "buffer_font_family": "JetBrains Mono NL",
+  "buffer_font_size": 16,
+  "vim_mode": false,
+  "cursor_blink": true,
+  "ensure_final_newline_on_save": true,
+  "format_on_save": "off",
+  "remove_trailing_whitespace_on_save": true,
+  "hover_popover_enabled": false,
+  "gutter": {
+    "code_actions": false
+  },
+  "tab_size": 2,
+  "git": {
+    "inline_blame": {
+      "enabled": false
+    }
+  },
+  "telemetry": {
+    "diagnostics": false,
+    "metrics": false
+  },
+  "auto_install_extensions": {
+    "html": true,
+    "just": true,
+    "dockerfile": true,
+    "toml": true,
+    "terraform": true,
+    "git-firefly": true,
+    "lua": true,
+    "docker-compose": true,
+    "meson": true,
+    "nix": true
+  }
+}

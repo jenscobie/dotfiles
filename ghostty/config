@@ -1,0 +1,7 @@
+theme = "OneHalfDark"
+font-family = "JetBrains Mono NL"
+font-size = 18
+resize-overlay = "never"
+quit-after-last-window-closed = true
+macos-titlebar-proxy-icon = "hidden"
+shell-integration = zsh
