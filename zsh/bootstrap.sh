@@ -16,8 +16,8 @@ rm -rf $HOME/.zprofile
 rm -rf $HOME/.zshenv
 rm -rf $HOME/.zshrc
 
-ln -s $HOME/Code/personal/dotfiles/zsh/zlogin $HOME/.zlogin
-ln -s $HOME/Code/personal/dotfiles/zsh/zlogout $HOME/.zlogout
-ln -s $HOME/Code/personal/dotfiles/zsh/zprofile $HOME/.zprofile
-ln -s $HOME/Code/personal/dotfiles/zsh/zshenv $HOME/.zshenv
-ln -s $HOME/Code/personal/dotfiles/zsh/zshrc $HOME/.zshrc
+ln -s $HOME/git/personal/dotfiles/zsh/zlogin $HOME/.zlogin
+ln -s $HOME/git/personal/dotfiles/zsh/zlogout $HOME/.zlogout
+ln -s $HOME/git/personal/dotfiles/zsh/zprofile $HOME/.zprofile
+ln -s $HOME/git/personal/dotfiles/zsh/zshenv $HOME/.zshenv
+ln -s $HOME/git/personal/dotfiles/zsh/zshrc $HOME/.zshrc
